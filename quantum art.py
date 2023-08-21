@@ -1,6 +1,7 @@
 import pygame
 import random
 
+print("Quantum art generator")
 # Initialize pygame
 pygame.init()
 
